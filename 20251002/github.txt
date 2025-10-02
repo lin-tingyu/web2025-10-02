@@ -2,10 +2,11 @@ github
 1.開repository
 2.抓repository(git clone...)(git bosh)
 3.把本地資料放到repository(ctrl+a,ctrl+c,ctrl+v)
-4.推上雲端(開啟vs code)(檔案變綠)
-	4.1存檔 git.add
-	4.2存檔 git.commit -m"init"
-	4.3推上雲端 git push
+4.開啟vs code(檔案變綠)
+5.推上雲端
+	5.1存檔 git.add .
+	5.2存檔 git commit -m "frist"
+	5.3推上雲端 git push
 下載
 第一次下載:git clone ...
 未來每次更新:git pull
